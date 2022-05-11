@@ -1,0 +1,21 @@
+.dumm{
+    display: flex;
+    width: 1000px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+.crash{
+    position: absolute;
+    left: 501px;
+    top: 163px;
+    transform: rotate(-7.2deg);
+    transition: all ease-in-out .042s;
+}
+.hihat{
+    position: absolute;
+    top:200px;
+    left: 743px;
+    transition: all ease-in-out .042s;
+}

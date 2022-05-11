@@ -1,0 +1,68 @@
+body {
+    background-image: url('img/bg.jpg');
+    padding: 100px 20px;
+}
+h1{
+    text-align: center;
+}
+hr{
+    color: rgba(255, 255, 255, 1);
+}
+.shop{
+   
+    border: 3px solid brown;
+    border-radius: 20px;
+    display: flex;
+    width: 650px;
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.3);
+        color: #000000;
+}
+
+.namirnice{
+    padding: 10px 10px 40px 10px;
+    width: 400px;
+   
+}
+.namirnice img{
+    width: 70px;
+    height: 70px;
+}
+.namirnice div{
+    display: flex;
+    vertical-align: middle;
+    align-items: center;
+}
+.namirnice p{
+    margin-right: 10px;
+}
+.namirnice div div{
+    display: block;
+}
+.namirnice input{
+    width: 40px;
+    height: 15px;
+    margin-left: 30px;
+
+}
+.namirnice button{
+    height: 20px;
+}
+.korpadiv{
+    border-left: 3px solid brown;
+    padding: 10px 10px 10px 10px;
+    width: 250px;
+    background-image: url('img/cart.png');
+    background-size: 150px 150px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.korpa{
+    height: 250px;
+}
+.korpaCreate{
+    vertical-align: middle;
+    align-items: center;
+    display: flex;
+}
